@@ -1,0 +1,9 @@
+1 Ki tervezte a C programnyelvet# #Pistike #Guido van Rossum #Guido nincs Rossum #Dennis M. Ritchie #d
+2 Mennyi 2+2# #hat #minusz negy #nyolc #negy #d
+3 Ki Magyarország miniszterelnöke# #Dugovics Titusz #Szulejmán #Orbán Viktor #Gyurcsány Ferenc #c
+4 4.kerdes# #fasd #kasd #tasd #rasd #a
+5 5.kerdes# #fasd #kasd #tasd #rasd #b
+6 6.kerdes# #fasd #kasd #tasd #rozsda #c
+7 7.kerdes# #fasd #kasd #tasd #rozsda #c
+8 8.kerdes# #fasd #kasd #tasd #rozsda #d
+9 9.kerdes# #fasd #kasd #tasd #rozsda #a
